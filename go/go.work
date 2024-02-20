@@ -1,0 +1,11 @@
+go 1.22.0
+
+use (
+	./annalyns-infiltration
+	./cars-assemble
+	./hamming
+	./hello-world
+	./lasagna
+	./pangram
+	./weather-forecast
+)

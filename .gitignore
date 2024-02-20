@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+
+# kotlin
+**/build
+.idea
+.gradle
+
+# clojure
+**/.cpcache
+**/target
+**/.clj-kondo
